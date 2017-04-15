@@ -10,13 +10,12 @@ April 14, 2017
 Demarco Lockhart
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We created a web application where users can find information about movies. We used HTTP, Jquery, and AJAX to get information from json formated data.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ddl15c.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX
+2. HTTP Request
+3. JSON
